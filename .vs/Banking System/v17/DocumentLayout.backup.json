@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Working-folder\\C#\\Online-Banking-System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC30503-39B4-4628-AD63-84BC2E665DEE}|Online Banking System\\Online Banking System.csproj|c:\\users\\lenovo\\desktop\\working-folder\\c#\\online-banking-system\\online banking system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC30503-39B4-4628-AD63-84BC2E665DEE}|Online Banking System\\Online Banking System.csproj|solutionrelative:online banking system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Working-folder\\C#\\Online-Banking-System\\Online Banking System\\Program.cs",
+              "RelativeDocumentMoniker": "Online Banking System\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Working-folder\\C#\\Online-Banking-System\\Online Banking System\\Program.cs",
+              "RelativeToolTip": "Online Banking System\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T19:23:24.119Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\Работна папка\C#\Online Banking System\Online Banking System\bin\Debug\net8.0\Online Banking System.exe
+C:\Users\LENOVO\Desktop\Работна папка\C#\Online Banking System\Online Banking System\bin\Debug\net8.0\Online Banking System.deps.json
+C:\Users\LENOVO\Desktop\Работна папка\C#\Online Banking System\Online Banking System\bin\Debug\net8.0\Online Banking System.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Работна папка\C#\Online Banking System\Online Banking System\bin\Debug\net8.0\Online Banking System.dll
+C:\Users\LENOVO\Desktop\Работна папка\C#\Online Banking System\Online Banking System\bin\Debug\net8.0\Online Banking System.pdb
+C:\Users\LENOVO\Desktop\Работна папка\C#\Online Banking System\Online Banking System\obj\Debug\net8.0\Online Banking System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Работна папка\C#\Online Banking System\Online Banking System\obj\Debug\net8.0\Online Banking System.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Работна папка\C#\Online Banking System\Online Banking System\obj\Debug\net8.0\Online Banking System.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Работна папка\C#\Online Banking System\Online Banking System\obj\Debug\net8.0\Online Banking System.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Работна папка\C#\Online Banking System\Online Banking System\obj\Debug\net8.0\Online Banking System.dll
+C:\Users\LENOVO\Desktop\Работна папка\C#\Online Banking System\Online Banking System\obj\Debug\net8.0\refint\Online Banking System.dll
+C:\Users\LENOVO\Desktop\Работна папка\C#\Online Banking System\Online Banking System\obj\Debug\net8.0\Online Banking System.pdb
+C:\Users\LENOVO\Desktop\Работна папка\C#\Online Banking System\Online Banking System\obj\Debug\net8.0\Online Banking System.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Работна папка\C#\Online Banking System\Online Banking System\obj\Debug\net8.0\ref\Online Banking System.dll
